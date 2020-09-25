@@ -1,0 +1,95 @@
+body {
+  background-image: url('donuts.jpg');
+  background-size: 100%;
+  font-family: "나눔스퀘어 Extrabold";
+}
+
+#main_board{
+  background-color : #f8faf0;
+  width: 50%;
+  padding: 10px;
+  border-radius: 30px;
+  box-shadow: 10px gray;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+#title_bar {
+  text-align: center;
+  margin-top: 50px;
+  margin-bottom: 50px;
+}
+
+#title {
+  color: #fc6719;
+  font-size: 70px;
+  font-family: "Debussy"
+
+}
+
+#title_c {
+  color: #e21683;
+  font-size: 70px;
+  font-family: "a프로젝트"
+}
+
+#reco_board{
+  margin-bottom: 70px;
+  text-align: center;
+
+}
+
+.board_title {
+  text-align: center;
+  font-size: 25px;
+}
+
+.board_content {
+  text-align: center;
+  font-size: 20px;
+}
+
+.reco_list{
+  font-size: 20px;
+  text-align: center;
+  list-style-type: none;
+  border: 1px solid gray;
+  width: 400px;
+  padding: 20px;
+  margin: auto;
+}
+
+#content_board{
+  margin-bottom: 70px;
+  text-align: center;
+}
+
+.description {
+  font-size: 20px;
+  width: 500px;
+  margin: auto;
+  border: 1px solid gray;
+  padding: 20px;
+}
+
+form {
+  width: 500px;
+  text-align: center;
+  margin: auto;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+a:visited {
+  text-decoration: none;
+  color: inherit;
+}
