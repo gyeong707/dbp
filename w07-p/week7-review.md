@@ -1,6 +1,6 @@
 <h1> 7주차 학습 회고 </h1>
 
-[영상 링크]()
+[영상 링크](https://drive.google.com/file/d/1BHCziaIwRt8V4qF9y2GCd_rd398UwB4K/view?usp=sharing)
 
 7주차 회고록을 다음과 같은 순서로 작성합니다.
 
