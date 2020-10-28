@@ -1,7 +1,7 @@
 <h1 class="section_title">DBP Midterm Report </h1>
 
 동작 영상 링크 먼저 보시면 더 좋을 것 같습니다. <br>
-<a href="https://drive.google.com/file/d/1UQ3XmuUOUJc7H9pNd2IDa2UAbjq5u8Vz/view?usp=sharing">동작 영상 링크</a><br><br>
+<a href="https://drive.google.com/file/d/1UQ3XmuUOUJc7H9pNd2IDa2UAbjq5u8Vz/view?usp=sharing">영상 링크</a><br><br>
 
 
 
