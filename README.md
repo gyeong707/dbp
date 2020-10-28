@@ -81,7 +81,7 @@
 <br>
 <h2 class="review_subtitle"> 3. 동작 화면 소개</h2>
 동작화면을 녹화한 링크는 아래와 같습니다.<br><br>
-(링크 첨부)
+<a href="https://drive.google.com/file/d/1UQ3XmuUOUJc7H9pNd2IDa2UAbjq5u8Vz/view?usp=sharing">영상 링크</a>
 <br><br>
 
 <h2 class="review_subtitle"> +) 어려움 및 극복과정</h2>
