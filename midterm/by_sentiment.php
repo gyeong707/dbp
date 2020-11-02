@@ -107,7 +107,6 @@
             <span id="report_title"><a href='index.php'>DBP Midterm Report</a></span>
             <h3 id="report_name">20160965 통계학과 강미경</h3> 
             <h3 id="report_top">Sungshin Women's University</h3>
-            <h3</h3>
             
             <!-- Analysis Info -->
             <div id="report_inner">
