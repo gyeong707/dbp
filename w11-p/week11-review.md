@@ -1,6 +1,8 @@
 <h1> 11주차 학습 회고 </h1>
 
-11주차 회고록을 다음과 같은 순서로 작성합니다.
+11주차 회고록을 다음과 같은 순서로 작성합니다.<br>
+
+동작화면은 [이것](https://drive.google.com/file/d/1o2fG1pdBLXzyNpfz9yEqyXvReRLNp4Rx/view?usp=sharing)을 눌러주세요.
 
 - 새로 배운 내용
 - 문제 발생 / 고민 / 해결 과정
